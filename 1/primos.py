@@ -12,4 +12,4 @@ def primos(a,b):
         if (esPrimo(i)):
             listaDePrimos.append(i)
     return listaDePrimos
-print(primos(1,7))
+print(primos(10,20))
